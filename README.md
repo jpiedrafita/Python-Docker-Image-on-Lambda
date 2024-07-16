@@ -37,3 +37,9 @@ cat response.json
 
 # Local Test
 Once the image is built, use ```make docker/run``` to run the container and ```docker lcoal-test``` to test the application.
+
+# Sources
+
+- [How to create Amazon Lambda Function with the container image (Dockerfile)](https://medium.com/@dogukannulu/how-to-create-amazon-lambda-function-with-the-container-image-dockerfile-6ab7927f5b99)
+- [Deploying Contenainerized AWS Lambda functions with Terraform](https://medium.com/akava/deploying-containerized-aws-lambda-functions-with-terraform-7147b9815599)
+- [How to Run a Python Docker Image on AWS Lambda](https://www.youtube.com/watch?v=wbsbXfkv47A) (deployment with cdk)
