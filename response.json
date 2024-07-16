@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": {"message": "Hello from Lambda!", "array": [[3, 5, 9], [3, 9, 7], [6, 5, 5]]}}
