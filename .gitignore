@@ -1,0 +1,47 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+crash.*
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Python virtual environments
+.venv/
+.env/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Docker related files
+**/Dockerfile
+**/docker-compose.yml
+**/docker-compose.override.yml
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
